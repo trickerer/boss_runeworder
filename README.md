@@ -1,5 +1,7 @@
 # [ Boss: Runeword Master ] 
 
+[Download](https://github.com/trickerer/boss_runeworder/releases)
+
 ---------------------------------------
 ### Contents
 1. [Introduction](#introduction)
@@ -38,7 +40,7 @@ Because not only boss will benefit and players will suffer from rune effect(s), 
 - [Download](Releases): within Runeworder.7z you find `server` and `client` folders  
 - For client: move `patch-enGB-4.MPQ` into `/Data/enGB` folder  
 - For script: move `boss_runeworder.cpp` file into `/src/server/scripts/Custom` folder and use diff to update script loader  
-- For DB: apply `runeworder_world_20xx.sql` to your `world` DB  
+- For DB: apply `runeworder_world_last.sql` to your `world` DB  
 - For dbc: move provided `.dbc` files to your `/dbc` folder or apply provided patch (created using **MyDbc Editor ver. 1.2.2**)
 
 ### Other Info
