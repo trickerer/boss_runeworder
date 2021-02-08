@@ -1,4 +1,4 @@
-# [ Boss: Runeword Master ] 
+# [ Boss: The Duchess (Runeword Master) ] 
 
 [Download](https://github.com/trickerer/boss_runeworder/releases)
 
