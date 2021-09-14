@@ -40,10 +40,13 @@ Because not only boss will benefit and players will suffer from rune effect(s), 
 - [Download](Releases): within Runeworder.7z you find `server` and `client` folders  
 - For client: move `patch-enGB-4.MPQ` into `/Data/enGB` folder  
 - For script: move `boss_runeworder.cpp` file into `/src/server/scripts/Custom` folder and use diff to update script loader  
-- For DB: apply `runeworder_world_last.sql` to your `world` DB  
+- For DB: apply `runeworder_world.sql` to your `world` DB  
 - For dbc: move provided `.dbc` files to your `/dbc` folder or apply provided patch (created using **MyDbc Editor ver. 1.2.2**)
 
 ### Other Info
 Included boss entity: 'Duchess' <Mistress of Runes> is a upgraded version of Countess, which only dies miserably and drop runes.  
 Used model is one of Sylvanas early test elf models.  
 All of the above are just suggstions, you may want to use someting else. The only things that may break the script are creature_template fields: `mechanic_immune_mask`, `unit_class`, `type_flags` and `entry` and `ScriptName` of course.  
+
+[Rune drawing examples](https://www.youtube.com/playlist?list=PLr5Gtha3WkwourZgBZ1EjK4_N_jEWaqMr)  
+[Demonstration](https://www.youtube.com/watch?v=K84Xi5kZGo0)
