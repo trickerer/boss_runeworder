@@ -14,7 +14,7 @@
 
 ---------------------------------------
 ## Introduction
-Are you waiting for Diablo II Remastered? I don't, thanks for asking. BUT, Diablo II is one of my favorite games of all time, and so I decided to make something Diablo II related in WoW universe.
+Have you been waiting for Diablo II Resurrected? I didn't, thanks for asking. BUT, Diablo II is one of my favorite games of all time, and so I decided to make something Diablo II related in WoW universe.
 
 ---------------------------------------
 ## Runeword Master?
@@ -50,3 +50,5 @@ All of the above are just suggstions, you may want to use someting else. The onl
 
 [Rune drawing examples](https://www.youtube.com/playlist?list=PLr5Gtha3WkwourZgBZ1EjK4_N_jEWaqMr)  
 [Demonstration](https://www.youtube.com/watch?v=K84Xi5kZGo0)
+
+Current version: 1.0.11
